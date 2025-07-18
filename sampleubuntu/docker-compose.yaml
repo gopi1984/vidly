@@ -1,0 +1,5 @@
+version: "2.38.2"
+services:
+  frontend:
+      build: ./fend
+        
